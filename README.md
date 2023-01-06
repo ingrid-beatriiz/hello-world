@@ -1,2 +1,2 @@
 # hello-world
-Meu primeiro repositório onde eu aprendi a usar os comandos na força do ódio
+Meu primeiro repositório onde eu aprendi a usar os comandos agora com mais calma *-*
